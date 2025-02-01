@@ -1,5 +1,3 @@
-Collecting workspace information
-
 # Atividade Interrupções
 
 Este projeto demonstra o uso de interrupções e temporizadores no Raspberry Pi Pico para controlar LEDs WS2812 e um LED RGB. O código é escrito em C e utiliza a biblioteca Pico SDK.
